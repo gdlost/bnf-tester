@@ -1,0 +1,11 @@
+# Este es un comentario de prueba al inicio del programa
+
+<S> ::= <NP> <VP>; # Este es un comentario de prueba al final de una regla
+
+<NP> ::= "the " <N>;
+<VP> ::= <V> <NP>;
+<V> ::= "sings " 
+# Este es un comentario de prueba entre dos grupos
+    | "eats ";
+<N> ::= "cat " | "song " | "canary ";
+

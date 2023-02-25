@@ -1,0 +1,3 @@
+
+<Var-decl> ::= "var " "name" ":" <Data-type>;
+<Data-type> ::= "u8 " | "u16 " ;
