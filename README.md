@@ -15,3 +15,10 @@ escribir comentarios usando el caracter `#`.
 ### Uso
 
 `$ ./bnf_tester grammar_file.bnf`
+
+### TODO
+- Reglas predeterminadas
+- Deteccion de reglas sin uso
+- Manejo apropiado de errores cuando una regla no exista.
+- Directiva para seleccionar una regla (simbolo) inicial.
+- Extensiones EBNF
